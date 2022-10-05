@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8204329807286100020}
   - component: {fileID: 122928215758926370}
   m_Layer: 0
-  m_Name: small_spruce
+  m_Name: SpruceSmall_pfr
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
