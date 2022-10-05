@@ -6,10 +6,10 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: snow
-  m_DiffuseTexture: {fileID: 2800000, guid: 41203c6f985c89f489bec395adaeed14, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: a0743fa62b3f0944f9304a29d8656f87, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: 2cc1042efb0a60540b38e9a166235a48, type: 3}
+  m_Name: roughstone_terrain
+  m_DiffuseTexture: {fileID: 2800000, guid: 6cc361884ebaa8e40a7bd08bdc447435, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: 7cff70e023d9e6f489afcd03d9ecaadf, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: f58d65671fdc1f640a0c4b6c02733ccc, type: 3}
   m_TileSize: {x: 2, y: 2}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}

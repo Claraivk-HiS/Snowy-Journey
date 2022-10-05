@@ -6,7 +6,7 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: roughsnow
+  m_Name: roughsnow_terrain
   m_DiffuseTexture: {fileID: 2800000, guid: dd573effac56a0f4cb785beab20f1e19, type: 3}
   m_NormalMapTexture: {fileID: 2800000, guid: 72ccf2ec9bd03b940adda49a97748e49, type: 3}
   m_MaskMapTexture: {fileID: 2800000, guid: 00ef90a4eb28aaf45955c3878366bd48, type: 3}
