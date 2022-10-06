@@ -496,7 +496,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1815150322556508373}
   m_Layer: 0
-  m_Name: outbuilding prefab
+  m_Name: outbuilding_prf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

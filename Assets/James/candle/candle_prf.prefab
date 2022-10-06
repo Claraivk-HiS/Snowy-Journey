@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5376931382148536159}
   m_Layer: 0
-  m_Name: candle prefab
+  m_Name: candle_prf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

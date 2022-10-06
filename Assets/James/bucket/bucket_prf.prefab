@@ -91,7 +91,7 @@ GameObject:
   m_Component:
   - component: {fileID: 522306522917922865}
   m_Layer: 0
-  m_Name: bucket prefab
+  m_Name: bucket_prf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

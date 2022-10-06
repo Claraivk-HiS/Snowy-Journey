@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 912793620160973825}
   - component: {fileID: 3120453306915289291}
   m_Layer: 0
-  m_Name: spear prefab
+  m_Name: spear_prf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
