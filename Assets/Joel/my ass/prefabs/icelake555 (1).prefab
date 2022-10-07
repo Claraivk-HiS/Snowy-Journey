@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 698891168770287399}
   - component: {fileID: 4475784482543822978}
   - component: {fileID: 1871765765832186952}
+  - component: {fileID: 3059202453171266686}
   m_Layer: 0
   m_Name: icelake555 (1)
   m_TagString: Untagged
@@ -85,3 +86,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &3059202453171266686
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214243672613830045}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 233.34114, y: 35.191936, z: 201.50146}
+  m_Center: {x: 10.408365, y: -0.84944665, z: -0.40893555}

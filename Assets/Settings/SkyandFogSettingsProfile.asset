@@ -297,19 +297,19 @@ MonoBehaviour:
     m_Value: 1000
   baseHeight:
     m_OverrideState: 1
-    m_Value: 42.7
+    m_Value: 116.71
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 75.2
+    m_Value: 116.71
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 37.2
+    m_Value: 37.9
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
   albedo:
     m_OverrideState: 1
-    m_Value: {r: 0.6650944, g: 0.8571271, b: 1, a: 1}
+    m_Value: {r: 0.7877358, g: 0.9090296, b: 1, a: 1}
   globalLightProbeDimmer:
     m_OverrideState: 0
     m_Value: 1
