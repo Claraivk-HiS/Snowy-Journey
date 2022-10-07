@@ -637,6 +637,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 431264367708979859, guid: 95a90b20af5b5fe419f4f3a138f7f5a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 70fe0a6e1fd52ee4195b1c3dc1cd76ec, type: 2}
+    - target: {fileID: 3942304776979908201, guid: 95a90b20af5b5fe419f4f3a138f7f5a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 70fe0a6e1fd52ee4195b1c3dc1cd76ec, type: 2}
+    - target: {fileID: 4286776379548322833, guid: 95a90b20af5b5fe419f4f3a138f7f5a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 70fe0a6e1fd52ee4195b1c3dc1cd76ec, type: 2}
+    - target: {fileID: 6546981912942598730, guid: 95a90b20af5b5fe419f4f3a138f7f5a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 70fe0a6e1fd52ee4195b1c3dc1cd76ec, type: 2}
     - target: {fileID: 7032972050929795081, guid: 95a90b20af5b5fe419f4f3a138f7f5a2,
         type: 3}
       propertyPath: m_RootOrder
@@ -697,5 +717,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: MC_campfire_msh_v1
       objectReference: {fileID: 0}
+    - target: {fileID: 8001066522757394915, guid: 95a90b20af5b5fe419f4f3a138f7f5a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 70fe0a6e1fd52ee4195b1c3dc1cd76ec, type: 2}
+    - target: {fileID: 8720418951590275585, guid: 95a90b20af5b5fe419f4f3a138f7f5a2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 70fe0a6e1fd52ee4195b1c3dc1cd76ec, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 95a90b20af5b5fe419f4f3a138f7f5a2, type: 3}
