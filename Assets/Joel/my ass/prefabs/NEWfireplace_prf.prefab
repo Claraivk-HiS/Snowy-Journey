@@ -1686,7 +1686,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8292770329800289211}
   m_LocalRotation: {x: -0.70710677, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -0.006, y: -0.062, z: 0.071}
+  m_LocalPosition: {x: 0.02, y: -0.062, z: 0.068}
   m_LocalScale: {x: 0.76134, y: 0.76134, z: 0.76134}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3085,7 +3085,7 @@ ParticleSystem:
     startFrame:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.125
+      scalar: 0
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -3140,7 +3140,7 @@ ParticleSystem:
     tilesY: 2
     animationType: 0
     rowIndex: 0
-    cycles: 0.0001
+    cycles: 0.2
     uvChannelMask: -1
     rowMode: 1
     sprites:
@@ -6423,7 +6423,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 328c3c577f64f354ba3d12822a0bfe22, type: 2}
+  - {fileID: 2100000, guid: 5792bca7b9358fe48be397e28cac9655, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16109,7 +16109,7 @@ GameObject:
   - component: {fileID: 8292770331221796633}
   - component: {fileID: 8292770331221796635}
   - component: {fileID: 8292770331221796634}
-  - component: {fileID: 8292770331221796636}
+  - component: {fileID: 1194699191}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -16145,7 +16145,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3183.0989
+  m_Intensity: 2053.4966
   m_Range: 105.1
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -16207,13 +16207,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Intensity: 3183.0989
+  m_Intensity: 2053.4966
   m_EnableSpotReflector: 1
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
   m_SpotIESCutoffPercent: 100
   m_LightDimmer: 1
-  m_VolumetricDimmer: 1.8
+  m_VolumetricDimmer: 0.78
   m_LightUnit: 1
   m_FadeDistance: 10000
   m_VolumetricFadeDistance: 10000
@@ -16317,7 +16317,7 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 1
---- !u!95 &8292770331221796636
+--- !u!95 &1194699191
 Animator:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -16325,9 +16325,9 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8292770331221796632}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 607d523e4434d4f4d8905cad5fced05f, type: 2}
+  m_Controller: {fileID: 9100000, guid: 0dc80995bc6dc4a4192788f525929809, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
