@@ -170,7 +170,7 @@ Material:
     - _DetailNormalScale: 1
     - _DetailSmoothnessScale: 1
     - _DiffusionProfile: 0
-    - _DiffusionProfileHash: 3.7742333
+    - _DiffusionProfileHash: 3.1870985
     - _DisplacementLockObjectScale: 1
     - _DisplacementLockTilingScale: 1
     - _DisplacementMode: 0
@@ -236,7 +236,7 @@ Material:
     - _SurfaceType: 0
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
-    - _Thickness: 0.299
+    - _Thickness: 0.993
     - _TransmissionEnable: 1
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
@@ -258,8 +258,8 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DiffusionProfileAsset: {r: -3.1855215e+13, g: 3.3820961e+22, b: -2.5705036e+32,
-        a: -4.9044364e-38}
+    - _DiffusionProfileAsset: {r: -4.2800923e-12, g: -0.00000016991214, b: 7.1903156e-14,
+        a: 6.439294e+32}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 1.3350784, g: 0.1087187, b: 0.1087187, a: 1.3350784}
@@ -286,5 +286,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_DiffusionProfileReferences:
-  - {fileID: 11400000, guid: f6c6e7d5042ee564e8c64af5ef828581, type: 2}
+  - {fileID: 11400000, guid: a59796ac187136b459e9a12941fcfd75, type: 2}
   m_MaterialReferences: []

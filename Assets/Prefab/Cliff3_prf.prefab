@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 354503626599384303}
   - component: {fileID: 5353574664564499457}
   - component: {fileID: 580628323804740388}
+  - component: {fileID: 6496001130127786829}
   m_Layer: 0
   m_Name: Cliff3_1_lp
   m_TagString: Untagged
@@ -83,6 +84,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6496001130127786829
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 129743792810024743}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -8091902522957126189, guid: 2705d6a49686c4043b0c1e6220d2074e, type: 3}
 --- !u!1 &6432799285789536227
 GameObject:
   m_ObjectHideFlags: 0
@@ -127,6 +142,7 @@ GameObject:
   - component: {fileID: 2113354565741662909}
   - component: {fileID: 7398971860231982462}
   - component: {fileID: 2617330646643866955}
+  - component: {fileID: 6087218261845721980}
   m_Layer: 0
   m_Name: Cliff3_2_lp
   m_TagString: Untagged
@@ -199,3 +215,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &6087218261845721980
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8500608426134172075}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8723065265232791111, guid: 2705d6a49686c4043b0c1e6220d2074e, type: 3}
