@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: foliage spring
   m_EditorClassIdentifier: 
   profile:
-    scatteringDistance: {r: 1, g: 1, b: 1, a: 1}
-    transmissionTint: {r: 1, g: 1, b: 1, a: 1}
+    scatteringDistance: {r: 37.30627, g: 38.937145, b: 19.774363, a: 1}
+    transmissionTint: {r: 0.51096773, g: 0.7924528, b: 0.018689923, a: 1}
     texturingMode: 0
     transmissionMode: 1
-    thicknessRemap: {x: 0, y: 20.506273}
+    thicknessRemap: {x: 7.605438, y: 15.205528}
     worldScale: 1
     ior: 1
     hash: 1078720876
