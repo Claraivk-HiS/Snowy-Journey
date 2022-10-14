@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 5135
+  controlID: 12654
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 5136
+  controlID: 12655
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 5137
+  controlID: 12656
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,10 +225,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 65}
+      scrollPos: {x: 0, y: 969}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4a6cffff1efbffff9a74000046750000e8790000
+      m_ExpandedIDs: 3834feff0aa0feffe6a0fefff0a0feff2aa3feff56b9feffbcbbfeff86befeffb0befeff4a6cffffcef8ffffd6f8ffffdef8ffffeaf8ffff1efbffff9a74000046750000e8790000b80b0700
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -542,9 +542,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 686.68964, y: 64.14038, z: 766.73645}
+    m_Target: {x: 44.220924, y: 8.940167, z: 0.22143364}
     speed: 2
-    m_Value: {x: 686.68964, y: 64.14038, z: 766.73645}
+    m_Value: {x: 44.220924, y: 8.940167, z: 0.22143364}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -591,20 +591,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.04091647, y: 0.95913446, z: -0.13098577, w: 0.25102788}
+    m_Target: {x: -0.048073575, y: 0.934395, z: -0.17377585, w: -0.31036538}
     speed: 2
-    m_Value: {x: 0.04091647, y: 0.95913446, z: -0.13098577, w: 0.25102788}
+    m_Value: {x: -0.04828761, y: 0.9330285, z: -0.17353617, w: -0.31146622}
   m_Size:
-    m_Target: 1.0862713
+    m_Target: 10
     speed: 2
-    m_Value: 1.0862713
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 0.607
-    m_SpeedNormalized: 0.29999998
+    m_Speed: 0.42789996
+    m_SpeedNormalized: 0.20999998
     m_SpeedMin: 0.01
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -2122,22 +2122,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Textures
+    - Assets/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Textures
+  - Assets/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: G:\UnityProjects\snowy\Snowy-Journey
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 187}
-    m_SelectedIDs: 8e890000
-    m_LastClickedID: 35214
-    m_ExpandedIDs: 000000004e89000050890000528900005489000056890000588900005a89000000ca9a3b
+    m_SelectedIDs: 74890000
+    m_LastClickedID: 35188
+    m_ExpandedIDs: 000000004e890000508900005289000054890000568900005889000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2165,7 +2165,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004e89000050890000528900005489000056890000588900005a89000000ca9a3b
+    m_ExpandedIDs: 000000004e890000508900005289000054890000568900005889000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
