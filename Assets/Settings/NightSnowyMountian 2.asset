@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   quality:
     m_OverrideState: 0
     m_Value: 1
@@ -235,11 +235,11 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: {x: 4.87, y: -1.76, z: 1.42}
   spaceEmissionTexture:
-    m_OverrideState: 0
-    m_Value: {fileID: 8900000, guid: d57e799bc22e0ac4e91414d3adcef452, type: 3}
+    m_OverrideState: 1
+    m_Value: {fileID: 8900000, guid: 4b2a8c8d7c5a7564b807dd49d8f3d0e0, type: 3}
   spaceEmissionMultiplier:
     m_OverrideState: 1
-    m_Value: 10000
+    m_Value: 10
   spaceRotation:
     m_OverrideState: 1
     m_Value: {x: 0, y: 0, z: 0}
@@ -253,13 +253,13 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   horizonTint:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 0.75226945, g: 0.9641968, b: 0.990566, a: 1}
   zenithTint:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 0.22921856, g: 0.46077424, b: 0.9528302, a: 1}
   horizonZenithShift:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: -0.72
   m_SkyVersion: 1
   m_ObsoleteEarthPreset:
