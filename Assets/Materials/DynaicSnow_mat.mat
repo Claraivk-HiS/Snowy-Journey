@@ -121,8 +121,8 @@ Material:
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
-    - _snowbrighness: 0.37
-    - _snowpower: -0.32
+    - _snowbrighness: 0.47
+    - _snowpower: -0.29
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
