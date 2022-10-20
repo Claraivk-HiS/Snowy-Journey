@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5353574664564499457}
   - component: {fileID: 580628323804740388}
   - component: {fileID: 6496001130127786829}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cliff3_1_lp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107,7 +107,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5912721027941496153}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cliff3_prf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,7 +143,7 @@ GameObject:
   - component: {fileID: 7398971860231982462}
   - component: {fileID: 2617330646643866955}
   - component: {fileID: 6087218261845721980}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cliff3_2_lp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
