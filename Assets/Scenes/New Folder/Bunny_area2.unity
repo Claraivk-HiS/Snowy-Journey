@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 3958.9336, g: 3221.4844, b: 2895.4941, a: 1}
+  m_IndirectSpecularColor: {r: 2715.3027, g: 2267.959, b: 1814.169, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -143,12 +143,12 @@ PrefabInstance:
     - target: {fileID: 8580349613380876569, guid: b3694ab85eef54e4184f2da8ec32f3f1,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 58.92
+      value: 58.85
       objectReference: {fileID: 0}
     - target: {fileID: 8580349613380876569, guid: b3694ab85eef54e4184f2da8ec32f3f1,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 235.67
+      value: 235.93
       objectReference: {fileID: 0}
     - target: {fileID: 8580349613380876569, guid: b3694ab85eef54e4184f2da8ec32f3f1,
         type: 3}
@@ -418,13 +418,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Intensity: 130000
+  m_Intensity: 37804.38
   m_EnableSpotReflector: 1
   m_LuxAtDistance: 1
   m_InnerSpotPercent: 0
   m_SpotIESCutoffPercent: 100
   m_LightDimmer: 1
-  m_VolumetricDimmer: 2.1
+  m_VolumetricDimmer: 0.3
   m_LightUnit: 2
   m_FadeDistance: 10000
   m_VolumetricFadeDistance: 10000
@@ -449,7 +449,7 @@ MonoBehaviour:
   m_UseScreenSpaceShadows: 0
   m_InteractsWithSky: 1
   m_AngularDiameter: 0.5
-  m_FlareSize: 0.47
+  m_FlareSize: 0.27
   m_FlareTint: {r: 1, g: 0.514151, b: 0.73063374, a: 1}
   m_FlareFalloff: 3.77
   m_SurfaceTexture: {fileID: 0}
@@ -482,7 +482,7 @@ MonoBehaviour:
     m_UseOverride: 0
     m_Level: 2
   m_ShadowDimmer: 1
-  m_VolumetricShadowDimmer: 0.792
+  m_VolumetricShadowDimmer: 0.812
   m_ShadowFadeDistance: 10000
   m_UseContactShadow:
     m_Override: 0
@@ -540,7 +540,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.9270801, b: 0.8066038, a: 1}
-  m_Intensity: 130000
+  m_Intensity: 37804.38
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -583,7 +583,7 @@ Light:
   m_LightShadowCasterMode: 2
   m_AreaSize: {x: 0.5, y: 0.5}
   m_BounceIntensity: 1
-  m_ColorTemperature: 4609
+  m_ColorTemperature: 3862
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
@@ -964,8 +964,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1432072351}
-  m_LocalRotation: {x: -0, y: -0.9083553, z: -0, w: 0.41819924}
-  m_LocalPosition: {x: 287.517, y: 59.54, z: 243.871}
+  m_LocalRotation: {x: 0.010554475, y: -0.84560233, z: 0.016763506, w: 0.53344566}
+  m_LocalPosition: {x: 288.69186, y: 59.850315, z: 240.59015}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
