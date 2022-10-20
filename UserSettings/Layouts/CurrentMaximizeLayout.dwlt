@@ -187,8 +187,8 @@ MonoBehaviour:
     y: 0
     width: 377
     height: 725
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -226,9 +226,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 02c0ffff1afbffff427f0000
+      m_SelectedIDs: 06e30000
+      m_LastClickedID: 58118
+      m_ExpandedIDs: ac6cfbffe46dfbffeeaafcff92adfcff5eb5fcff8a2dfdff882ffdff7436fdffc040fdff8644fdffba8afdff0e8efdff428ffdff4227feffbe64ffff7a67ffff02c0ffff1afbffff427f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -244,7 +244,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 7}
+        m_ClientGUIView: {fileID: 11}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -540,9 +540,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 394.84845, y: 78.53287, z: 352.8084}
+    m_Target: {x: 503.6159, y: 41.85988, z: 416.5224}
     speed: 2
-    m_Value: {x: 394.84845, y: 78.53287, z: 352.8084}
+    m_Value: {x: 503.6159, y: 41.85988, z: 416.5224}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -589,20 +589,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0387915, y: 0.71690434, z: 0.041006397, w: 0.6950085}
+    m_Target: {x: 0.12495389, y: -0.05538943, z: -0.0072971117, w: -0.9908128}
     speed: 2
-    m_Value: {x: -0.038788106, y: 0.71684164, z: 0.04100281, w: 0.6949477}
+    m_Value: {x: 0.12492611, y: -0.05537712, z: -0.00729549, w: -0.99059254}
   m_Size:
-    m_Target: 0.8660254
+    m_Target: 1.0792253
     speed: 2
-    m_Value: 0.8660254
+    m_Value: 1.0792253
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 0.94052994
+    m_SpeedNormalized: 0.46999997
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -2085,21 +2085,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Prefab
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Prefab
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\TEMP\snowy_journy\Snowy-Journey
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: ea790000
-    m_LastClickedID: 31210
+    scrollPos: {x: 0, y: 291}
+    m_SelectedIDs: 7a7b0000
+    m_LastClickedID: 31610
     m_ExpandedIDs: 00000000ea790000ec790000ee790000f079000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -2128,7 +2128,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ea790000ec790000ee790000f0790000
+    m_ExpandedIDs: 00000000ea790000ec790000ee790000f079000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2153,8 +2153,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: 06e30000
+    m_LastClickedInstanceID: 58118
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -2180,7 +2180,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 81}
+    m_ScrollPosition: {x: 0, y: 69}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
