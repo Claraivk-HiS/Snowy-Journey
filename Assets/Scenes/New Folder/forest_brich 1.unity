@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.06490588, g: 0.077536106, b: 0.109214544, a: 1}
+  m_IndirectSpecularColor: {r: 0.05574906, g: 0.066174746, b: 0.092139244, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -35991,7 +35991,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 666781780}
   m_LocalRotation: {x: 0.6158731, y: 0.34911022, z: -0.06225152, w: 0.7035248}
-  m_LocalPosition: {x: 686.462, y: 71.55, z: 722.54}
+  m_LocalPosition: {x: 678.37, y: 73.59, z: 731.77}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -50434,14 +50434,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 864735334}
-  m_LocalRotation: {x: 0.23321538, y: 0.7235224, z: -0.27288347, w: 0.58962744}
+  m_LocalRotation: {x: 0.11615618, y: 0.9374371, z: -0.2509535, w: 0.21152237}
   m_LocalPosition: {x: 511.1, y: 92.7, z: 227.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 88
-  m_LocalEulerAnglesHint: {x: 42.059, y: -257.891, z: -358.79}
+  m_LocalEulerAnglesHint: {x: 31.309, y: -203.324, z: -352.494}
 --- !u!4 &865102467 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 698891168770287399, guid: fddbd752f2cf4d64c86594fef7005b5a,
@@ -99466,7 +99466,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1945469536
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -99649,14 +99649,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1945469535}
-  m_LocalRotation: {x: 0.24080767, y: 0.493984, z: 0.15252167, w: -0.8214187}
-  m_LocalPosition: {x: 691.01, y: 64.601, z: 721.744}
+  m_LocalRotation: {x: 0.5907993, y: 0.04274575, z: 0.28238216, w: -0.754579}
+  m_LocalPosition: {x: 675.38, y: 61.35, z: 735.99}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 158
-  m_LocalEulerAnglesHint: {x: -33.113, y: 298.214, z: -0.866}
+  m_LocalEulerAnglesHint: {x: -66.313, y: 402.064, z: -69.235}
 --- !u!1001 &1946089725
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -103132,7 +103132,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &2019265258
 MonoBehaviour:
   m_ObjectHideFlags: 0
