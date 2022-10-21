@@ -34,7 +34,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 8338988566280778637}
   - {fileID: 4377251714951163240}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -55,148 +54,7 @@ Animator:
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
-  m_WarningMessage: '
-
-    Transform ''Left_Toes'' has been deleted
-
-    Transform
-    ''Left_Foot'' has been deleted
-
-    Transform ''Left_LowerLeg'' has been deleted
-
-    Transform
-    ''Left_UpperLeg'' has been deleted
-
-    Transform ''Right_Toes'' has been deleted
-
-    Transform
-    ''Right_Foot'' has been deleted
-
-    Transform ''Right_LowerLeg'' has been deleted
-
-    Transform
-    ''Right_UpperLeg'' has been deleted
-
-    Transform ''Left_IndexDistal'' has been
-    deleted
-
-    Transform ''Left_IndexIntermediate'' has been deleted
-
-    Transform
-    ''Left_IndexProximal'' has been deleted
-
-    Transform ''Left_MiddleDistal''
-    has been deleted
-
-    Transform ''Left_MiddleIntermediate'' has been deleted
-
-    Transform
-    ''Left_MiddleProximal'' has been deleted
-
-    Transform ''Left_PinkyDistal''
-    has been deleted
-
-    Transform ''Left_PinkyIntermediate'' has been deleted
-
-    Transform
-    ''Left_PinkyProximal'' has been deleted
-
-    Transform ''Left_RingDistal'' has
-    been deleted
-
-    Transform ''Left_RingIntermediate'' has been deleted
-
-    Transform
-    ''Left_RingProximal'' has been deleted
-
-    Transform ''Left_ThumbDistal'' has
-    been deleted
-
-    Transform ''Left_ThumbIntermediate'' has been deleted
-
-    Transform
-    ''Left_ThumbProximal'' has been deleted
-
-    Transform ''Left_Hand'' has been
-    deleted
-
-    Transform ''Left_LowerArm'' has been deleted
-
-    Transform ''Left_UpperArm''
-    has been deleted
-
-    Transform ''Left_Shoulder'' has been deleted
-
-    Transform
-    ''Jaw'' has been deleted
-
-    Transform ''Head'' has been deleted
-
-    Transform
-    ''Neck'' has been deleted
-
-    Transform ''Right_IndexDistal'' has been deleted
-
-    Transform
-    ''Right_IndexIntermediate'' has been deleted
-
-    Transform ''Right_IndexProximal''
-    has been deleted
-
-    Transform ''Right_MiddleDistal'' has been deleted
-
-    Transform
-    ''Right_MiddleIntermediate'' has been deleted
-
-    Transform ''Right_MiddleProximal''
-    has been deleted
-
-    Transform ''Right_PinkyDistal'' has been deleted
-
-    Transform
-    ''Right_PinkyIntermediate'' has been deleted
-
-    Transform ''Right_PinkyProximal''
-    has been deleted
-
-    Transform ''Right_RingDistal'' has been deleted
-
-    Transform
-    ''Right_RingIntermediate'' has been deleted
-
-    Transform ''Right_RingProximal''
-    has been deleted
-
-    Transform ''Right_ThumbDistal'' has been deleted
-
-    Transform
-    ''Right_ThumbIntermediate'' has been deleted
-
-    Transform ''Right_ThumbProximal''
-    has been deleted
-
-    Transform ''Right_Hand'' has been deleted
-
-    Transform
-    ''Right_LowerArm'' has been deleted
-
-    Transform ''Right_UpperArm'' has been
-    deleted
-
-    Transform ''Right_Shoulder'' has been deleted
-
-    Transform ''UpperChest''
-    has been deleted
-
-    Transform ''Chest'' has been deleted
-
-    Transform ''Spine''
-    has been deleted
-
-    Transform ''Hips'' has been deleted
-
-    Transform ''Skeleton''
-    has been deleted'
+  m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
@@ -420,13 +278,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8338988566280778634}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.375, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.70710677, w: 0.70710677}
+  m_LocalPosition: {x: -0.4317983, y: 0, z: 0.050967444}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 3893294197879345259}
-  m_RootOrder: 0
+  m_Father: {fileID: 1599635096385646677}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &4266499029847722627
 PrefabInstance:
@@ -438,7 +296,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 1f3ced62cf5b4194994b8282872daffe,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1f3ced62cf5b4194994b8282872daffe,
         type: 3}
@@ -497,6 +355,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1f3ced62cf5b4194994b8282872daffe, type: 3}
+--- !u!4 &1599635096385646677 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3244471786511743702, guid: 1f3ced62cf5b4194994b8282872daffe,
+    type: 3}
+  m_PrefabInstance: {fileID: 4266499029847722627}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &4377251714951163240 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1f3ced62cf5b4194994b8282872daffe,
