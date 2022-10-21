@@ -6,9 +6,6 @@ ModelImporter:
   - first:
       74: 8255944145178857799
     second: monster_stomp_anim
-  - first:
-      74: -4813424178402271064
-    second: monster_stomp_anim (1)
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -50,7 +47,7 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -97,67 +94,6 @@ ModelImporter:
       - path: Root/Leg/Ankle/R_toe_1/R_toe_2/R_toe_3
         weight: 1
       maskType: 0
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
-    - serializedVersion: 16
-      name: monster_stomp_anim (1)
-      takeName: monster_stomp_anim
-      internalID: 0
-      firstFrame: 0
-      lastFrame: 2
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 1
-      loopBlend: 1
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask:
-      - path: 
-        weight: 1
-      - path: Root
-        weight: 1
-      - path: Root/Leg
-        weight: 1
-      - path: Root/Leg/Ankle
-        weight: 1
-      - path: Root/Leg/Ankle/F_toe_1
-        weight: 1
-      - path: Root/Leg/Ankle/F_toe_1/F_toe_2
-        weight: 1
-      - path: Root/Leg/Ankle/F_toe_1/F_toe_2/F_claw
-        weight: 1
-      - path: Root/Leg/Ankle/F_toe_1/F_toe_2/F_toe_3
-        weight: 1
-      - path: Root/Leg/Ankle/L_toe_1
-        weight: 1
-      - path: Root/Leg/Ankle/L_toe_1/L_toe_2
-        weight: 1
-      - path: Root/Leg/Ankle/L_toe_1/L_toe_2/L_claw
-        weight: 1
-      - path: Root/Leg/Ankle/L_toe_1/L_toe_2/L_toe_3
-        weight: 1
-      - path: Root/Leg/Ankle/R_toe_1
-        weight: 1
-      - path: Root/Leg/Ankle/R_toe_1/R_toe_2
-        weight: 1
-      - path: Root/Leg/Ankle/R_toe_1/R_toe_2/R_claw
-        weight: 1
-      - path: Root/Leg/Ankle/R_toe_1/R_toe_2/R_toe_3
-        weight: 1
-      maskType: 3
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     isReadable: 0
