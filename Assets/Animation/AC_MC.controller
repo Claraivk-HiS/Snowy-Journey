@@ -117,7 +117,23 @@ AnimatorController:
   m_PrefabAsset: {fileID: 0}
   m_Name: AC_MC
   serializedVersion: 5
+<<<<<<< Updated upstream
   m_AnimatorParameters: []
+=======
+  m_AnimatorParameters:
+  - m_Name: Speed
+    m_Type: 1
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+  - m_Name: Jump
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+>>>>>>> Stashed changes
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -306,7 +322,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Kulning
+  m_Name: investigate
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -320,8 +336,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7328761458026864101, guid: 73c5af280f0574f4f9fbfb2d0a503ad7,
-    type: 3}
+  m_Motion: {fileID: 798460661886400149, guid: 5e78809322b72cb4884d2b9c358aac99, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
